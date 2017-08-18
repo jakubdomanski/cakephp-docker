@@ -1,0 +1,4 @@
+.env
+database/
+my_vhost.conf
+.idea/
